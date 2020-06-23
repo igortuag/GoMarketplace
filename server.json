@@ -2,27 +2,45 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Memória DDR4",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/448996_1.jpg",
+      "price": 279
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Headset Gamer",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/448158_1.jpg",
+      "price": 189
     },
     {
-      "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "id": "123321456",
+      "title": "Placa de Vídeo",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/448209_1.jpg",
+      "price": 2099
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "1234256",
+      "title": "Mouse Gamer TGT Karambit",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/448100_1.jpg",
+      "price": 46
+    },
+    {
+      "id": "123412156",
+      "title": "Notebook Acer Aspire Nitro 5",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/447366_1.jpg",
+      "price": 4580
+    },
+    {
+      "id": "12302456",
+      "title": "CADEIRA GAMER",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/447508_1.jpg",
+      "price": 599
+    },
+    {
+      "id": "1234234256",
+      "title": "Mouse Gamer Havit",
+      "image_url": "https://static.pelando.com.br/live/threads/thread_large/default/447500_1.jpg",
+      "price": 133
     }
   ]
 }
